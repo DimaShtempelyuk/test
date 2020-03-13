@@ -7,6 +7,7 @@ namespace _181002d3_Shtempelyuk
         
         static void Main(string[] args)
         {
+            int xox = 1;
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Clear();
